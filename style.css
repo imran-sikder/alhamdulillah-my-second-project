@@ -67,6 +67,7 @@ margin: 26px 200px;
     border-radius: 8px;
     font-size: 20px;
     font-weight: 500;
+    cursor: pointer;
 }
 /* Main Section sector */
 .section-1{
@@ -163,6 +164,7 @@ margin: 26px 200px;
     display: flex;
     justify-content: space-between;
     margin: 0 150px;
+    margin-bottom: 111px;
     gap: 24px;
 }
 .htmll{
@@ -198,4 +200,74 @@ margin: 26px 200px;
 .hudae{
     color: var(--dark-1);
     font-weight: 600;
+}
+.why_my{
+    font-size: 32px;
+    font-weight: 800;
+    color: var(--dark-2);
+}
+.soft-child{
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding: 40px;
+gap: 24px;
+border: 1px solid var(--dark-3);
+margin: 0 150px;
+margin-bottom: 24px;
+border-radius: 10px;
+}
+.need{
+    font-size: 32px;
+    color: var(--white-1);
+    margin-bottom: 10px;
+}
+.lorem-ispum{
+    color: white;
+}
+.form-sec{
+  background-image: url(./assets/handshake.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 313px;
+  margin: 0 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.need-su{
+      text-align: center;
+   padding: 64px 150px;
+   background-color: rgba(0, 0, 0, 0.6);
+   border: none;
+   border-radius: 10px;
+}
+.fill-up{
+    font-family: "Azeret Mono", monospace;
+    width: 500px;
+    height: 45px;
+    border: none;
+    border-radius: 7px;
+    padding-left: 20px;
+}
+.subm{
+    font-family: "Azeret Mono", monospace;
+    height: 45px;
+    width: 90px;
+    border: none;
+    border-radius: 7px;
+}
+.section-5{
+    margin-bottom: 80px;
+}
+.foot{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 150px;
+}
+.social-media{
+    display: flex;
+    gap: 25px;
 }
